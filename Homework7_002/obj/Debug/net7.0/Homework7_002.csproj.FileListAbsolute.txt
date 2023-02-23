@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Documents\Homework-7\Homework7_002\bin\Debug\net7.0\Homework7_002.exe
+C:\Users\Пользователь\Documents\Homework-7\Homework7_002\bin\Debug\net7.0\Homework7_002.deps.json
+C:\Users\Пользователь\Documents\Homework-7\Homework7_002\bin\Debug\net7.0\Homework7_002.runtimeconfig.json
+C:\Users\Пользователь\Documents\Homework-7\Homework7_002\bin\Debug\net7.0\Homework7_002.dll
+C:\Users\Пользователь\Documents\Homework-7\Homework7_002\bin\Debug\net7.0\Homework7_002.pdb
+C:\Users\Пользователь\Documents\Homework-7\Homework7_002\obj\Debug\net7.0\Homework7_002.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Documents\Homework-7\Homework7_002\obj\Debug\net7.0\Homework7_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Documents\Homework-7\Homework7_002\obj\Debug\net7.0\Homework7_002.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Documents\Homework-7\Homework7_002\obj\Debug\net7.0\Homework7_002.AssemblyInfo.cs
+C:\Users\Пользователь\Documents\Homework-7\Homework7_002\obj\Debug\net7.0\Homework7_002.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Documents\Homework-7\Homework7_002\obj\Debug\net7.0\Homework7_002.dll
+C:\Users\Пользователь\Documents\Homework-7\Homework7_002\obj\Debug\net7.0\refint\Homework7_002.dll
+C:\Users\Пользователь\Documents\Homework-7\Homework7_002\obj\Debug\net7.0\Homework7_002.pdb
+C:\Users\Пользователь\Documents\Homework-7\Homework7_002\obj\Debug\net7.0\Homework7_002.genruntimeconfig.cache
+C:\Users\Пользователь\Documents\Homework-7\Homework7_002\obj\Debug\net7.0\ref\Homework7_002.dll
